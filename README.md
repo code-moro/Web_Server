@@ -30,6 +30,10 @@ This is a simple API built using gin gonic (Golang) . This application greets us
  ```
  go get -u github.com/gin-gonic/gin
  ```
+ 3. Vist the Given link and hit Greet button
+```
+http://127.0.0.1:5500/templates/index.html
+```
 
 ---
 ## API Endpoints
